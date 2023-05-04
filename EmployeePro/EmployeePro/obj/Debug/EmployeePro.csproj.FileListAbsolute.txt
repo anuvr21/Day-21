@@ -1,0 +1,8 @@
+D:\UST\Day20\EmployeePro\EmployeePro\bin\Debug\EmployeePro.exe.config
+D:\UST\Day20\EmployeePro\EmployeePro\bin\Debug\EmployeePro.exe
+D:\UST\Day20\EmployeePro\EmployeePro\bin\Debug\EmployeePro.pdb
+D:\UST\Day20\EmployeePro\EmployeePro\obj\Debug\EmployeePro.csproj.AssemblyReference.cache
+D:\UST\Day20\EmployeePro\EmployeePro\obj\Debug\EmployeePro.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day20\EmployeePro\EmployeePro\obj\Debug\EmployeePro.csproj.CoreCompileInputs.cache
+D:\UST\Day20\EmployeePro\EmployeePro\obj\Debug\EmployeePro.exe
+D:\UST\Day20\EmployeePro\EmployeePro\obj\Debug\EmployeePro.pdb
